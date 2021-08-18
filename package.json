@@ -1,0 +1,19 @@
+{
+  "name": "djuration",
+  "version": "1.0.0",
+  "description": "Djuration is built to provide frequently used time functions and properties at your disposal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/nathanielanum13/djuration.git"
+  },
+  "author": "Nathaniel Anum Adjah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/nathanielanum13/djuration/issues"
+  },
+  "homepage": "https://gitlab.com/nathanielanum13/djuration#readme"
+}

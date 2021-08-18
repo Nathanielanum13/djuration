@@ -5,14 +5,14 @@ Djuration is built to provide frequently used time functions and properties at y
 You can add Djuration to your project using 3 different approaches
 
 1. Import it using [script](#script) `<script></script>` on the page
-2. Download the JavaScript file from [GIT](https://www.google.com) and import it
+2. Download the JavaScript file from [GIT](https://gitlab.com/nathanielanum13/djuration.git) and import it
 3. Install it using [npm](#npm)
 
 ## Release Notes
 
 Current release version `1.0.0`
 
-Detailed release notes for each version are available on [GitHub](https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md).
+Detailed release notes for each version are available on [GitHub](https://gitlab.com/nathanielanum13/djuration.git).
 
 ## script
 
